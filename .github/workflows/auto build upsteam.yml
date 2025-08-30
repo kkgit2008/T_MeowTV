@@ -1,4 +1,4 @@
-name: Auto Build upsteam
+ban name: Auto Build upsteam
 
 on:
   schedule:
